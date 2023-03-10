@@ -34,7 +34,7 @@ The genomics technology used in this paper is CAGE.
 
 Further related research questions:
 
-**1. List and explain at least three questions/ hypotheses you can think of that extend the analysis presented in the paper.**
+**3. List and explain at least three questions/ hypotheses you can think of that extend the analysis presented in the paper.**
 
 
 Three potential questions/hypotheses are:
